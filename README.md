@@ -7,10 +7,6 @@
 - 📫 How to reach me: goxr3plus@gmail.com or alexanderkentros@gmail.com
 
 
-<a href="https://github.com/anuraghazra/github-readme-stat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=goxr3plus&hide=prs&count_private=true&theme=dracula&show_icons=true" />
-</a>
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=goxr3plus&show_icons=true&theme=dracula)  
 
 
