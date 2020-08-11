@@ -1,5 +1,4 @@
-### Hi, i am GOXR3PLUS STUDIO(Alexander Kentros) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-[![Linkedin: Alexander Kentros](https://img.shields.io/badge/-AlexanderKentros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexander-kentros-042807121/)](https://www.linkedin.com/in/alexander-kentros-042807121/)
+### Hi, i am GOXR3PLUS STUDIO  [![Linkedin: Alexander Kentros](https://img.shields.io/badge/-AlexanderKentros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexander-kentros-042807121/)](https://www.linkedin.com/in/alexander-kentros-042807121/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🌱 I’m currently learning React / React Native and trying to become a Senior Web Developer
 - 🎓 Studied at Digital Systems @ [UNIPI](https://www.unipi.gr/unipi/en/)
