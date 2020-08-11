@@ -42,7 +42,5 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 	<img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg">
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=goxr3plus&show_icons=true&theme=dracula)  
-
 
 ![Made with love in Peru](https://madewithlove.now.sh/gr?template=for-the-badge)
