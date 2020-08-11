@@ -1,6 +1,7 @@
 ### Hi, i am GOXR3PLUS STUDIO  [![Linkedin: Alexander Kentros](https://img.shields.io/badge/-AlexanderKentros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexander-kentros-042807121/)](https://www.linkedin.com/in/alexander-kentros-042807121/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🌱 I’m currently learning React / React Native and trying to become a Senior Web Developer
+- 🌱 I’m currently focusing on React / React Native and trying to become a Senior Web Developer
+- 🌱 I also have a very solid knowledge in Java 11 and above 
 - 🎓 Studied at Digital Systems @ [UNIPI](https://www.unipi.gr/unipi/en/)
 - 📫 How to reach me: goxr3plus@gmail.com or alexanderkentros@gmail.com
 
