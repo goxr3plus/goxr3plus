@@ -23,8 +23,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   -->
    <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
    <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
-   <img width="10%" src="https://www.vectorlogo.zone/logos/packerio/packerio-ar21.svg">
-   <img width="10%" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg">
+   <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+   <img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
   <br />
  
 </p>
