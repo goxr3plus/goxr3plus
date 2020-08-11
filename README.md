@@ -41,6 +41,3 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 	<img width="10%" src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg">
 	<img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg">
 </p>
-
-
-![Made with love in Peru](https://madewithlove.now.sh/gr?template=for-the-badge)
