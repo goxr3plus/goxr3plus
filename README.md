@@ -36,4 +36,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
    <img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg">
    <img width="10%" src="https://www.vectorlogo.zone/logos/apollographql/apollographql-ar21.svg">
    <br />
+   <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+   <img width="10%" src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-ar21.svg">
+   <img width="10%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg">
+   <img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg">
+   <br />
 </p>
