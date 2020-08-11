@@ -1,6 +1,6 @@
 ### Hi, i am GOXR3PLUS STUDIO  [![Linkedin: Alexander Kentros](https://img.shields.io/badge/-AlexanderKentros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexander-kentros-042807121/)](https://www.linkedin.com/in/alexander-kentros-042807121/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p align="left"> I am an extremely motivated programmer , who is constantly developing his skills to become a professional . Confident about my ability to come up with innovative ideas to achieve the 
+<p align="left"> An extremely motivated programmer , who is constantly developing his skills to become a professional . Confident about my ability to come up with innovative ideas to achieve the 
 perfect outcome .  Try me :)
 
 - 🌱 Currently focusing on [React](https://github.com/facebook/react) / [React Native](https://github.com/facebook/react-native) and trying to become a Senior Web Developer
