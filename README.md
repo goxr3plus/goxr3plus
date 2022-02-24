@@ -8,7 +8,7 @@ perfect outcome .  Try me :)
 - :shipit: I also have a very solid knowledge in [Java 11](https://www.oracle.com/java/technologies/javase-downloads.html) and above 
 - 🎓 You can find my complete CV [here](https://user-images.githubusercontent.com/20374208/89882114-082b7380-dbcf-11ea-95aa-74d129712606.png)
 - 📚 Studied at Digital Systems at University of Piraeus [UNIPI](https://www.unipi.gr/unipi/en/)
-- 📫 How to reach me: goxr3plus@gmail.com or alexanderkentros@gmail.com
+- 📫 How to reach me: goxr3plus@gmail.com
 
 ### Languages and Tools:
 
