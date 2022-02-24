@@ -1,4 +1,4 @@
-### Hi, i am GOXR3PLUS STUDIO  [![Linkedin: Alexander Kentros](https://img.shields.io/badge/-AlexanderKentros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexander-kentros-042807121/)](https://www.linkedin.com/in/alexander-kentros-042807121/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi, i am GOXR3PLUS Studio <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Check my playstore applications : [My playstore apps](https://play.google.com/store/apps/dev?id=6434311469904942963)
 <p align="left"> An extremely motivated programmer , who is constantly developing his skills to become a professional . Confident about my ability to come up with innovative ideas to achieve the 
