@@ -2,7 +2,7 @@
 
 Check my playstore applications : [My playstore apps](https://play.google.com/store/apps/dev?id=6434311469904942963)
 <p align="left"> An extremely motivated programmer , who is constantly developing his skills to become a professional . Confident about my ability to come up with innovative ideas to achieve the 
-perfect outcome .  Try me :)
+perfect outcome .
 
 - 🌱 Currently focusing on [React](https://github.com/facebook/react) / [React Native](https://github.com/facebook/react-native) and trying to become a Senior Web Developer
 - :shipit: I also have a very solid knowledge in [Java 11](https://www.oracle.com/java/technologies/javase-downloads.html) and above 
