@@ -43,3 +43,18 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
    <img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg">
    <br />
 </p>
+
+Some of my Apps
+
+| XR3Player - Click for Video|
+|:-:|
+| [![First](https://user-images.githubusercontent.com/20374208/48313813-34fdc180-e5ca-11e8-9da7-c6148dc0cbe5.png)](https://www.youtube.com/watch?v=7Hai7cavmUY)  |
+
+Playstore Apps
+
+| Screen 1 | Screen 2 | Screen 3 | Screen 4
+|:-:|:-:|:-:|:-:|
+| ![First](https://user-images.githubusercontent.com/20374208/157334779-9756df15-6279-4d14-a1c7-5c774768f827.png) | ![Sec](https://user-images.githubusercontent.com/20374208/157334739-be0de2c4-1829-4097-94a3-873710cd9638.png) | ![third](https://user-images.githubusercontent.com/20374208/157334841-00c966f5-9430-4c21-9942-74f87cd1dd56.png) | ![forth](https://user-images.githubusercontent.com/20374208/157334862-2f380a7d-98cb-447a-804f-f32b12ce7d79.png) |
+
+
+
