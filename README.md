@@ -44,13 +44,13 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
    <br />
 </p>
 
-Some of my Apps
+#### Biggest DJ Player in JavaFX made by me
 
 | XR3Player - Click for Video|
 |:-:|
 | [![First](https://user-images.githubusercontent.com/20374208/48313813-34fdc180-e5ca-11e8-9da7-c6148dc0cbe5.png)](https://www.youtube.com/watch?v=7Hai7cavmUY)  |
 
-[My playstore apps](https://play.google.com/store/apps/dev?id=6434311469904942963)
+### [My playstore apps](https://play.google.com/store/apps/dev?id=6434311469904942963)
 
 | Screen 1 | Screen 2 | Screen 3 | Screen 4
 |:-:|:-:|:-:|:-:|
