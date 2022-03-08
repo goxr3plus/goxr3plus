@@ -1,7 +1,9 @@
 ### Hi, i am GOXR3PLUS Studio <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Check my playstore applications : [My playstore apps](https://play.google.com/store/apps/dev?id=6434311469904942963)
+
 Check my youtube channel : [Youtube Channel](https://www.youtube.com/c/GoXR3PlusStudio/featured)
+
 <p align="left"> An extremely motivated programmer , who is constantly developing his skills to become a professional . Confident about my ability to come up with innovative ideas to achieve the 
 perfect outcome .
 
