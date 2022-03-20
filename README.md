@@ -63,4 +63,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 |:-:|:-:|:-:|:-:|
 | ![First](https://user-images.githubusercontent.com/20374208/157334934-80502575-a0e4-4a05-a1b2-a7d8543b5f1d.png) | ![Sec](https://user-images.githubusercontent.com/20374208/157334961-b6ddb697-3b62-464a-9985-d19b03a89b99.png) | ![third](https://user-images.githubusercontent.com/20374208/157335375-c081ffc9-0f26-495e-aeed-06d15f358097.png) | ![forth](https://user-images.githubusercontent.com/20374208/157335397-6a4a4782-2cdc-4f09-a2e2-80e1f8c22a7d.png) |
 
+### Trading View Golden Indicator with Pinescript 4 => [Click Here](https://github.com/goxr3plus/TradingView_GoldenIndicator)
 
+![image](https://user-images.githubusercontent.com/20374208/109058449-af937200-76eb-11eb-8311-46bc92f09408.png)
+![image](https://user-images.githubusercontent.com/20374208/109058989-5d9f1c00-76ec-11eb-9633-72a4fc869337.png)
