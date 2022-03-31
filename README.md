@@ -48,7 +48,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 </p>
 
 #### Biggest DJ Player in Java 11 + JavaFX made by me , featured among the top applications ever made in JavaFX - https://openjfx.io
-
+Repository => [ Click Here ](https://github.com/goxr3plus/XR3Player)
+ 
 | XR3Player - Click for Video|
 |:-:|
 | [![First](https://user-images.githubusercontent.com/20374208/48313813-34fdc180-e5ca-11e8-9da7-c6148dc0cbe5.png)](https://www.youtube.com/watch?v=7Hai7cavmUY)  |
