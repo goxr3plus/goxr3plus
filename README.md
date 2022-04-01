@@ -8,7 +8,7 @@ Check my youtube channel : [Youtube Channel](https://www.youtube.com/c/GoXR3Plus
 perfect outcome .
 
 - 🌱 Currently focusing on [React](https://github.com/facebook/react) / [React Native](https://github.com/facebook/react-native) and trying to become a Senior Web Developer
-- :shipit: I also have a very solid knowledge in [Java 11](https://www.oracle.com/java/technologies/javase-downloads.html) and above 
+- :shipit: I also have a very solid knowledge in [Java 17](https://www.oracle.com/java/technologies/javase-downloads.html) and above 
 - 🎓 You can find my complete CV [here](https://user-images.githubusercontent.com/20374208/89882114-082b7380-dbcf-11ea-95aa-74d129712606.png)
 - 📚 Studied at Digital Systems at University of Piraeus [UNIPI](https://www.unipi.gr/unipi/en/)
 - 📫 How to reach me: goxr3plus@gmail.com
