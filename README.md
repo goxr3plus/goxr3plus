@@ -1,5 +1,5 @@
-### <img src="https://user-images.githubusercontent.com/20374208/167233952-19ca9fe9-2333-4904-8802-5b3edf49db45.gif" width="50px" height="50px">    Hi, i am GOXR3PLUS   Studio <img src="https://user-images.githubusercontent.com/20374208/167233952-19ca9fe9-2333-4904-8802-5b3edf49db45.gif" width="50px"  height="50px">
-![soulja-boy-pepe](https://user-images.githubusercontent.com/20374208/167233998-9cd86020-d71a-4282-8cc5-db77c4de1865.gif)
+<a href="#"><img width="100%" src="https://user-images.githubusercontent.com/20374208/173365628-33cb1264-ee65-467f-ad30-a78e41085662.svg" height="400px"/></a>
+
 
 Check my playstore applications : [My playstore apps](https://play.google.com/store/apps/dev?id=6434311469904942963)
 
