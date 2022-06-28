@@ -1,4 +1,6 @@
-<a href="#"><img width="100%" src="https://user-images.githubusercontent.com/20374208/173365628-33cb1264-ee65-467f-ad30-a78e41085662.svg" height="400px"/></a>
+<p width="100%" style="text-align: center;">
+<a href="#"><img width="100%" src="https://user-images.githubusercontent.com/20374208/176174733-5921bb42-6c30-4033-a824-9dc0c775e55f.png" height="100%"/></a>
+</p>
 
 
 Check my playstore applications : [My playstore apps](https://play.google.com/store/apps/dev?id=6434311469904942963)
