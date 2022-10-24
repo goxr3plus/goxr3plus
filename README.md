@@ -62,11 +62,11 @@ Repository => [ Click Here ](https://github.com/goxr3plus/XR3Player)
 
 | Screen 1 | Screen 2 | Screen 3 | Screen 4
 |:-:|:-:|:-:|:-:|
-| ![First](https://user-images.githubusercontent.com/20374208/157334779-9756df15-6279-4d14-a1c7-5c774768f827.png) | ![Sec](https://user-images.githubusercontent.com/20374208/157334739-be0de2c4-1829-4097-94a3-873710cd9638.png) | ![third](https://user-images.githubusercontent.com/20374208/157334841-00c966f5-9430-4c21-9942-74f87cd1dd56.png) | ![forth](https://user-images.githubusercontent.com/20374208/157334862-2f380a7d-98cb-447a-804f-f32b12ce7d79.png) |
+| ![First](https://user-images.githubusercontent.com/20374208/197577857-8a2111fc-b8a8-426f-967a-1994c62b780d.png) | ![Sec](https://user-images.githubusercontent.com/20374208/197577874-9d0990ff-b90b-439c-b48c-3d221d5464f4.png) | ![third](https://user-images.githubusercontent.com/20374208/197577894-d954162c-ad1e-420b-ba3c-0361c40520f9.png) | ![forth](https://user-images.githubusercontent.com/20374208/197577904-f2fc6b01-ec6d-40f2-ba76-cd98fb4e16cc.png) |
 
 | Screen 5 | Screen 6 | Screen 7 | Screen 8
 |:-:|:-:|:-:|:-:|
-| ![First](https://user-images.githubusercontent.com/20374208/157334934-80502575-a0e4-4a05-a1b2-a7d8543b5f1d.png) | ![Sec](https://user-images.githubusercontent.com/20374208/157334961-b6ddb697-3b62-464a-9985-d19b03a89b99.png) | ![third](https://user-images.githubusercontent.com/20374208/157335375-c081ffc9-0f26-495e-aeed-06d15f358097.png) | ![forth](https://user-images.githubusercontent.com/20374208/157335397-6a4a4782-2cdc-4f09-a2e2-80e1f8c22a7d.png) |
+| ![First](https://user-images.githubusercontent.com/20374208/197577920-b1ab6f15-6797-402c-99da-efe488880dfb.png) | ![Sec](https://user-images.githubusercontent.com/20374208/197577944-e0259235-88b2-4337-a440-e3e40e2b68e1.png) | ![third](https://user-images.githubusercontent.com/20374208/197577958-b99133a3-fa93-4620-83d6-e11e6ceca8fb.png) | ![forth](https://user-images.githubusercontent.com/20374208/197577982-46d5a273-aef5-47ee-b981-e81d6c8b02e6.png) |
 
 ### Trading View Golden Indicator with Pinescript 4 => [Click Here](https://github.com/goxr3plus/TradingView_GoldenIndicator)
 
