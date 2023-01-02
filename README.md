@@ -68,7 +68,7 @@ Repository => [ Click Here ](https://github.com/goxr3plus/XR3Player)
 |:-:|:-:|:-:|:-:|
 | ![First](https://user-images.githubusercontent.com/20374208/197577920-b1ab6f15-6797-402c-99da-efe488880dfb.png) | ![Sec](https://user-images.githubusercontent.com/20374208/197577944-e0259235-88b2-4337-a440-e3e40e2b68e1.png) | ![third](https://user-images.githubusercontent.com/20374208/197577958-b99133a3-fa93-4620-83d6-e11e6ceca8fb.png) | ![forth](https://user-images.githubusercontent.com/20374208/197577982-46d5a273-aef5-47ee-b981-e81d6c8b02e6.png) |
 
-### Trading View Golden Indicator with Pinescript 4 => [Click Here](https://github.com/goxr3plus/TradingView_GoldenIndicator)
+### Trading View Golden Indicator with Pinescript 5 => [Click Here](https://github.com/goxr3plus/TradingView_GoldenIndicator)
 
 ![image](https://user-images.githubusercontent.com/20374208/109058449-af937200-76eb-11eb-8311-46bc92f09408.png)
 ![image](https://user-images.githubusercontent.com/20374208/109058989-5d9f1c00-76ec-11eb-9633-72a4fc869337.png)
