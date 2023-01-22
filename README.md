@@ -11,7 +11,7 @@ Check my youtube channel : [Youtube Channel](https://www.youtube.com/c/GoXR3Plus
 perfect outcome .
 
 - 🌱 Currently focusing on [React](https://github.com/facebook/react) / [React Native](https://github.com/facebook/react-native) and trying to become a Senior Web Developer
-- :shipit: I also have a very solid knowledge in [Java 17](https://www.oracle.com/java/technologies/javase-downloads.html) and above 
+- :shipit: I also have a very solid knowledge in [Java 19](https://www.oracle.com/java/technologies/javase-downloads.html) and above 
 - 📫 How to reach me: goxr3plus@gmail.com
 
 ### Languages and Tools:
