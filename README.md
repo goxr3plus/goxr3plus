@@ -58,7 +58,21 @@ Repository => [ Click Here ](https://github.com/goxr3plus/XR3Player)
 |:-:|
 | [![First](https://user-images.githubusercontent.com/20374208/48313813-34fdc180-e5ca-11e8-9da7-c6148dc0cbe5.png)](https://www.youtube.com/watch?v=7Hai7cavmUY)  |
 
-### [My playstore apps](https://play.google.com/store/apps/dev?id=6434311469904942963)
+---
+
+<p align="center" style="font-size: 40px" >My playstore apps</p> 
+
+#### [LemmeTask](https://play.google.com/store/apps/details?id=com.goxr3plus.lxemvxzertaskmanherstmaoe) ( Task Manager )
+
+| Screen 1 | Screen 2 | Screen 3 | Screen 4
+|:-:|:-:|:-:|:-:|
+| ![First](https://user-images.githubusercontent.com/20374208/213943163-c233a679-e846-4fc8-af07-5477b8984a69.png) | ![Sec](https://user-images.githubusercontent.com/20374208/213943173-132e9a62-3f1a-4a4c-8c8d-085045dcb5b6.png) | ![third](https://user-images.githubusercontent.com/20374208/213943175-8a2593e7-6b37-45b2-9acf-020ec7d54f6c.png) | ![forth](https://user-images.githubusercontent.com/20374208/213943176-e7a5f2d7-a94e-4fc3-b1b8-31ddd0b37417.png) |
+
+| Screen 5 | Screen 6 | Screen 7 
+|:-:|:-:|:-:|
+| ![First](https://user-images.githubusercontent.com/20374208/213943185-e343476e-9274-4f60-a271-0f729f9a2236.png) | ![Sec](https://user-images.githubusercontent.com/20374208/213943191-21d1d809-c4ac-4c3a-90a5-26132f4d6b7e.png) | ![third](https://user-images.githubusercontent.com/20374208/213943192-76ab9427-5baf-418c-a9f0-61ba2fb3a86e.png) |
+
+#### [Zero Fap Addiction](https://play.google.com/store/apps/details?id=com.goxr3plus.zerxrfaldplezodiambals) ( Gamify your addiction free journey )
 
 | Screen 1 | Screen 2 | Screen 3 | Screen 4
 |:-:|:-:|:-:|:-:|
@@ -68,7 +82,7 @@ Repository => [ Click Here ](https://github.com/goxr3plus/XR3Player)
 |:-:|:-:|:-:|:-:|
 | ![First](https://user-images.githubusercontent.com/20374208/197577920-b1ab6f15-6797-402c-99da-efe488880dfb.png) | ![Sec](https://user-images.githubusercontent.com/20374208/197577944-e0259235-88b2-4337-a440-e3e40e2b68e1.png) | ![third](https://user-images.githubusercontent.com/20374208/197577958-b99133a3-fa93-4620-83d6-e11e6ceca8fb.png) | ![forth](https://user-images.githubusercontent.com/20374208/197577982-46d5a273-aef5-47ee-b981-e81d6c8b02e6.png) |
 
-### Trading View Golden Indicator with Pinescript 5 => [Click Here](https://github.com/goxr3plus/TradingView_GoldenIndicator)
+#### [Trading View Golden Indicator with Pinescript 5](https://github.com/goxr3plus/TradingView_GoldenIndicator)
 
 ![image](https://user-images.githubusercontent.com/20374208/109058449-af937200-76eb-11eb-8311-46bc92f09408.png)
 ![image](https://user-images.githubusercontent.com/20374208/109058989-5d9f1c00-76ec-11eb-9633-72a4fc869337.png)
