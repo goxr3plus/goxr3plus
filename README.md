@@ -79,11 +79,20 @@ Featured among the [top applications](https://openjfx.io) ever made in JavaFX
 
 | Screen 1 | Screen 2 | Screen 3 | Screen 4
 |:-:|:-:|:-:|:-:|
-| ![First](https://user-images.githubusercontent.com/20374208/197577857-8a2111fc-b8a8-426f-967a-1994c62b780d.png) | ![Sec](https://user-images.githubusercontent.com/20374208/197577874-9d0990ff-b90b-439c-b48c-3d221d5464f4.png) | ![third](https://user-images.githubusercontent.com/20374208/197577894-d954162c-ad1e-420b-ba3c-0361c40520f9.png) | ![forth](https://user-images.githubusercontent.com/20374208/197577904-f2fc6b01-ec6d-40f2-ba76-cd98fb4e16cc.png) |
+| ![First](https://user-images.githubusercontent.com/20374208/213945075-79b967a2-b380-4609-994c-d037fbf76da2.png) | ![Sec](https://user-images.githubusercontent.com/20374208/213945080-6dec3024-e741-432b-874f-492543081d18.png) | ![third](https://user-images.githubusercontent.com/20374208/213945082-4349a9b4-3178-4f86-b83f-14e5b69e699c.png) | ![forth](https://user-images.githubusercontent.com/20374208/213945085-83f5726e-c8b3-4455-958d-19245124e969.png) |
 
 | Screen 5 | Screen 6 | Screen 7 | Screen 8
 |:-:|:-:|:-:|:-:|
-| ![First](https://user-images.githubusercontent.com/20374208/197577920-b1ab6f15-6797-402c-99da-efe488880dfb.png) | ![Sec](https://user-images.githubusercontent.com/20374208/197577944-e0259235-88b2-4337-a440-e3e40e2b68e1.png) | ![third](https://user-images.githubusercontent.com/20374208/197577958-b99133a3-fa93-4620-83d6-e11e6ceca8fb.png) | ![forth](https://user-images.githubusercontent.com/20374208/197577982-46d5a273-aef5-47ee-b981-e81d6c8b02e6.png) |
+| ![First](https://user-images.githubusercontent.com/20374208/213945087-8c9b6bb9-3245-49e8-a85a-b46167f730fe.png) | ![Sec](https://user-images.githubusercontent.com/20374208/213945089-f3becc0e-d46b-4e99-a854-4c15b2120df3.png) | ![third](https://user-images.githubusercontent.com/20374208/213945090-f7d2ce14-d7a4-4598-8141-1928834d226b.png) | ![forth](https://user-images.githubusercontent.com/20374208/213945092-ce1622e5-fb4a-4ffa-934f-cd9aa0d38c2f.png) |
+
+| Screen 9 | Screen 10 | Screen 11 
+|:-:|:-:|:-:|
+| ![First](https://user-images.githubusercontent.com/20374208/213945095-765c1334-b0a9-44b1-99fc-8d7232de075e.png) | ![Sec](https://user-images.githubusercontent.com/20374208/213945099-d1062bea-c0b2-418c-88f9-2a3c9d9e8797.png) | ![third](https://user-images.githubusercontent.com/20374208/213945103-e338f6bc-db98-42bb-a3cf-2145f7276a3f.png) |
+
+| Screen 12 | Screen 13 | Screen 14 
+|:-:|:-:|:-:|
+| ![First](https://user-images.githubusercontent.com/20374208/213945111-a50a9fac-41f5-4eac-b448-2fc8deb92db8.png) | ![Sec](https://user-images.githubusercontent.com/20374208/213945115-61bcc5b2-68ff-4a93-afc0-eb479f7e7f28.png) | ![third](https://user-images.githubusercontent.com/20374208/213945120-bad5b76e-5b84-40e7-b0c9-805630bf9117.png) |
+
 
 #### [Trading View Golden Indicator with Pinescript 5](https://github.com/goxr3plus/TradingView_GoldenIndicator)
 
