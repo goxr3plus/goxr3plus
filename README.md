@@ -75,6 +75,13 @@ Featured among the [top applications](https://openjfx.io) ever made in JavaFX
 |:-:|:-:|:-:|
 | ![First](https://user-images.githubusercontent.com/20374208/213943185-e343476e-9274-4f60-a271-0f729f9a2236.png) | ![Sec](https://user-images.githubusercontent.com/20374208/213943191-21d1d809-c4ac-4c3a-90a5-26132f4d6b7e.png) | ![third](https://user-images.githubusercontent.com/20374208/213943192-76ab9427-5baf-418c-a9f0-61ba2fb3a86e.png) |
 
+#### [GymChad](https://play.google.com/store/apps/details?id=com.goxr3plus.lgchazerratradtaorstgyoem) ( Gym Planner )
+
+| Screen 1 | Screen 2 | Screen 3 | Screen 4
+|:-:|:-:|:-:|:-:|
+| ![First](https://user-images.githubusercontent.com/20374208/216789596-b07a80bc-7694-49b7-bca6-91651b2cba60.jpg) | ![Sec](https://user-images.githubusercontent.com/20374208/216789597-d8512190-fffc-4dd5-af5c-3f36a9b5eb5b.jpg) | ![third](https://user-images.githubusercontent.com/20374208/216789598-6664ea5f-9f1b-4457-ad43-1192462caddb.jpg) | ![forth](https://user-images.githubusercontent.com/20374208/216789601-9a0fdfb9-df6b-4708-81c1-27bdaed2f46b.jpg) |
+
+
 #### [Zero Fap Addiction](https://play.google.com/store/apps/details?id=com.goxr3plus.zerxrfaldplezodiambals) ( Gamify your addiction free journey )
 
 | Screen 1 | Screen 2 | Screen 3 | Screen 4
