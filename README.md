@@ -55,7 +55,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 Featured among the [top applications](https://openjfx.io) ever made in JavaFX
 
-#### [XR3Player](https://github.com/goxr3plus/XR3Player) (Biggest DJ Player written in Java/JavaFX 19  made by me)
+### [XR3Player](https://github.com/goxr3plus/XR3Player) (Biggest DJ Player written in Java/JavaFX 19  made by me)
 
 | XR3Player - Click for Video|
 |:-:|
@@ -65,7 +65,7 @@ Featured among the [top applications](https://openjfx.io) ever made in JavaFX
 
 <p align="center" style="font-size: 40px" >My playstore apps</p> 
 
-#### [LemmeTask](https://play.google.com/store/apps/details?id=com.goxr3plus.lxemvxzertaskmanherstmaoe) ( Task Manager )
+### [LemmeTask](https://play.google.com/store/apps/details?id=com.goxr3plus.lxemvxzertaskmanherstmaoe) ( Task Manager )
 
 | Screen 1 | Screen 2 | Screen 3 | Screen 4
 |:-:|:-:|:-:|:-:|
@@ -75,26 +75,22 @@ Featured among the [top applications](https://openjfx.io) ever made in JavaFX
 |:-:|:-:|:-:|
 | ![First](https://user-images.githubusercontent.com/20374208/213943185-e343476e-9274-4f60-a271-0f729f9a2236.png) | ![Sec](https://user-images.githubusercontent.com/20374208/213943191-21d1d809-c4ac-4c3a-90a5-26132f4d6b7e.png) | ![third](https://user-images.githubusercontent.com/20374208/213943192-76ab9427-5baf-418c-a9f0-61ba2fb3a86e.png) |
 
----
 
-#### [GymChad](https://play.google.com/store/apps/details?id=com.goxr3plus.lgchazerratradtaorstgyoem) ( Gym Planner )
+### [GymChad](https://play.google.com/store/apps/details?id=com.goxr3plus.lgchazerratradtaorstgyoem) ( Gym Planner )
 
 | Screen 1 | Screen 2 | Screen 3 | Screen 4
 |:-:|:-:|:-:|:-:|
 | ![First](https://user-images.githubusercontent.com/20374208/216789596-b07a80bc-7694-49b7-bca6-91651b2cba60.jpg) | ![Sec](https://user-images.githubusercontent.com/20374208/216789597-d8512190-fffc-4dd5-af5c-3f36a9b5eb5b.jpg) | ![third](https://user-images.githubusercontent.com/20374208/216789598-6664ea5f-9f1b-4457-ad43-1192462caddb.jpg) | ![forth](https://user-images.githubusercontent.com/20374208/216789601-9a0fdfb9-df6b-4708-81c1-27bdaed2f46b.jpg) |
 
----
 
-#### ManifestChad ( Use Law of Attraction in your life )
+### ManifestChad ( Use Law of Attraction in your life )
 
 | Screen 1 | Screen 2 | Screen 3 | Screen 4
 |:-:|:-:|:-:|:-:|
 | ![First](https://user-images.githubusercontent.com/20374208/221439720-982e35c7-6a57-4f87-bcf2-e847cfabfc35.png) | ![Sec](https://user-images.githubusercontent.com/20374208/221439723-29fbaaf9-6220-4ee6-9eac-b40d1bbf6992.png) | ![third](https://user-images.githubusercontent.com/20374208/221439728-3537f65b-34c0-4e73-911a-78e5bc535714.png) | ![forth](https://user-images.githubusercontent.com/20374208/221439731-d6460517-a255-44ae-80af-7a367ae0662d.png) |
 
 
----
-
-#### [Zero Fap Addiction](https://play.google.com/store/apps/details?id=com.goxr3plus.zerxrfaldplezodiambals) ( Gamify your addiction free journey )
+### [Zero Fap Addiction](https://play.google.com/store/apps/details?id=com.goxr3plus.zerxrfaldplezodiambals) ( Gamify your addiction free journey )
 
 | Screen 1 | Screen 2 | Screen 3 | Screen 4
 |:-:|:-:|:-:|:-:|
