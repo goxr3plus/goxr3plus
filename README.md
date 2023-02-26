@@ -85,6 +85,15 @@ Featured among the [top applications](https://openjfx.io) ever made in JavaFX
 
 ---
 
+#### ManifestChad ( Use Law of Attraction in your life )
+
+| Screen 1 | Screen 2 | Screen 3 | Screen 4
+|:-:|:-:|:-:|:-:|
+| ![First](https://user-images.githubusercontent.com/20374208/221439720-982e35c7-6a57-4f87-bcf2-e847cfabfc35.png) | ![Sec](https://user-images.githubusercontent.com/20374208/221439723-29fbaaf9-6220-4ee6-9eac-b40d1bbf6992.png) | ![third](https://user-images.githubusercontent.com/20374208/221439728-3537f65b-34c0-4e73-911a-78e5bc535714.png) | ![forth](https://user-images.githubusercontent.com/20374208/221439731-d6460517-a255-44ae-80af-7a367ae0662d.png) |
+
+
+---
+
 #### [Zero Fap Addiction](https://play.google.com/store/apps/details?id=com.goxr3plus.zerxrfaldplezodiambals) ( Gamify your addiction free journey )
 
 | Screen 1 | Screen 2 | Screen 3 | Screen 4
