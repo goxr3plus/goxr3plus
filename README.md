@@ -83,7 +83,7 @@ Featured among the [top applications](https://openjfx.io) ever made in JavaFX
 | ![First](https://user-images.githubusercontent.com/20374208/216789596-b07a80bc-7694-49b7-bca6-91651b2cba60.jpg) | ![Sec](https://user-images.githubusercontent.com/20374208/216789597-d8512190-fffc-4dd5-af5c-3f36a9b5eb5b.jpg) | ![third](https://user-images.githubusercontent.com/20374208/216789598-6664ea5f-9f1b-4457-ad43-1192462caddb.jpg) | ![forth](https://user-images.githubusercontent.com/20374208/216789601-9a0fdfb9-df6b-4708-81c1-27bdaed2f46b.jpg) |
 
 
-### ManifestChad ( Use Law of Attraction in your life )
+### [ManifestChad](https://play.google.com/store/apps/details?id=com.goxr3plus.emanzerestoskmanchstmdybyceft) ( Use Law of Attraction in your life )
 
 | Screen 1 | Screen 2 | Screen 3 | Screen 4
 |:-:|:-:|:-:|:-:|
