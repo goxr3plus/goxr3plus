@@ -66,6 +66,7 @@ Featured among the [top applications](https://openjfx.io) ever made in JavaFX
 <p align="center" style="font-size: 40px" >My playstore apps</p> 
 
 ### [LemmeTask](https://play.google.com/store/apps/details?id=com.goxr3plus.lxemvxzertaskmanherstmaoe) ( Task Manager )
+![LemmeTask](https://play-lh.googleusercontent.com/y4Ds391zkXdgKzUbGaslYvtsYkNeYDF7TS9xzXw_LCJmuvLJxFGWuIo6k8qj5NG-e0x8=w240-h480-rw)
 
 | Screen 1 | Screen 2 | Screen 3 | Screen 4
 |:-:|:-:|:-:|:-:|
@@ -77,6 +78,7 @@ Featured among the [top applications](https://openjfx.io) ever made in JavaFX
 
 
 ### [GymChad](https://play.google.com/store/apps/details?id=com.goxr3plus.lgchazerratradtaorstgyoem) ( Gym Planner )
+![GymChad](https://play-lh.googleusercontent.com/1wR7XPfKAMbsTeJKoC68IYLTcJpsvvKyoxjwaYEPpOUXML5OHGJKJFVL7EKGrxYZ17M=w240-h480-rw)
 
 | Screen 1 | Screen 2 | Screen 3 | Screen 4
 |:-:|:-:|:-:|:-:|
@@ -85,12 +87,15 @@ Featured among the [top applications](https://openjfx.io) ever made in JavaFX
 
 ### [ManifestChad](https://play.google.com/store/apps/details?id=com.goxr3plus.emanzerestoskmanchstmdybyceft) ( Use Law of Attraction in your life )
 
+![ManifestChad](https://play-lh.googleusercontent.com/hmpNKGKBm4IB5o7JPtr_-iOYAysWiPK474NBIZhpUokzvDeUO1YH-AgezbmfXyyiZqQ=w240-h480-rw)
+
 | Screen 1 | Screen 2 | Screen 3 | Screen 4
 |:-:|:-:|:-:|:-:|
 | ![First](https://user-images.githubusercontent.com/20374208/221439720-982e35c7-6a57-4f87-bcf2-e847cfabfc35.png) | ![Sec](https://user-images.githubusercontent.com/20374208/221439723-29fbaaf9-6220-4ee6-9eac-b40d1bbf6992.png) | ![third](https://user-images.githubusercontent.com/20374208/221439728-3537f65b-34c0-4e73-911a-78e5bc535714.png) | ![forth](https://user-images.githubusercontent.com/20374208/221439731-d6460517-a255-44ae-80af-7a367ae0662d.png) |
 
 
 ### [Zero Fap Addiction](https://play.google.com/store/apps/details?id=com.goxr3plus.zerxrfaldplezodiambals) ( Gamify your addiction free journey )
+<img src="https://play-lh.googleusercontent.com/iIFglnY2BoV9xdZTUZqgPol-5wfRfQg3ZtOU4UXhWkeRptJLnXWROc6vpMXgFXsF1lw"  width="40%" height="30%">
 
 | Screen 1 | Screen 2 | Screen 3 | Screen 4
 |:-:|:-:|:-:|:-:|
