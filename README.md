@@ -65,6 +65,16 @@ Featured among the [top applications](https://openjfx.io) ever made in JavaFX
 
 <p align="center" style="font-size: 40px" >My playstore apps</p> 
 
+### MerinAi ( Ai based on GPT4 , Midjourney , Google Palm2, Whisper and more... )
+NOT YET PUBLISHED - EARLY ALPHA DEMO PICS
+
+Features ( Text to Speech , Speech To Text , Audio to Image , Image to Audio , Image to Text , can answer everything that Chatgpt can ... and more )
+
+| Screen 1 | Screen 2 | Screen 3 
+|:-:|:-:|:-:|
+| ![First](https://github.com/goxr3plus/goxr3plus/assets/20374208/cfe6f141-e1d8-44f3-af9a-5831df9c62b2) | ![Sec](https://github.com/goxr3plus/goxr3plus/assets/20374208/1d8d0338-2599-4425-afd4-f29d34cf18b5) | ![third](https://github.com/goxr3plus/goxr3plus/assets/20374208/6155e4b5-66b8-4432-9b03-ab050a9c8bf9)
+
+
 ### [LemmeTask](https://play.google.com/store/apps/details?id=com.goxr3plus.lxemvxzertaskmanherstmaoe) ( Task Manager )
 ![LemmeTask](https://play-lh.googleusercontent.com/y4Ds391zkXdgKzUbGaslYvtsYkNeYDF7TS9xzXw_LCJmuvLJxFGWuIo6k8qj5NG-e0x8=w240-h480-rw)
 
