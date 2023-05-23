@@ -68,7 +68,8 @@ Featured among the [top applications](https://openjfx.io) ever made in JavaFX
 ### MerinAi ( Ai based on GPT4 , Midjourney , Google Palm2, Whisper and more... )
 NOT YET PUBLISHED - EARLY ALPHA DEMO PICS
 
-Features ( Text to Speech , Speech To Text , Audio to Image , Image to Audio , Image to Text , can answer everything that Chatgpt can ... and more )
+Features ( Text to Speech , Speech To Text , Audio to Image , Image to Audio , Image to Text Text to Image , can answer everything that Chatgpt 4 and Plam2 can ... and more, i am crazy i know ) 
+
 
 | Screen 1 | Screen 2 | Screen 3 
 |:-:|:-:|:-:|
