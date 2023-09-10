@@ -10,8 +10,6 @@ Check my youtube channel : [Youtube Channel](https://www.youtube.com/c/GoXR3Plus
 <p align="left"> An extremely motivated programmer who creates a lot of new stuff , Confident about my ability to come up with innovative ideas to achieve the 
 perfect outcome .
 
-- 🌱 Currently focusing on [React](https://github.com/facebook/react) / [React Native](https://github.com/facebook/react-native) and trying to become a Senior Web Developer
-- :shipit: I also have a very solid knowledge in [Java 19](https://www.oracle.com/java/technologies/javase-downloads.html) and above 
 - 📫 How to reach me: goxr3plus@gmail.com
 
 ### Languages and Tools:
