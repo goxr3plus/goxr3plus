@@ -70,6 +70,26 @@ Featured among the [top applications](https://openjfx.io) ever made in JavaFX
 
 <p align="center" style="font-size: 40px" >My playstore apps</p> 
 
+### [Zero Fap Addiction](https://play.google.com/store/apps/details?id=com.goxr3plus.zerxrfaldplezodiambals) ( Gamify your addiction free journey )
+<img src="https://play-lh.googleusercontent.com/iIFglnY2BoV9xdZTUZqgPol-5wfRfQg3ZtOU4UXhWkeRptJLnXWROc6vpMXgFXsF1lw"  width="40%" height="30%">
+
+| Screen 1 | Screen 2 | Screen 3 | Screen 4
+|:-:|:-:|:-:|:-:|
+| ![First](https://user-images.githubusercontent.com/20374208/213945075-79b967a2-b380-4609-994c-d037fbf76da2.png) | ![Sec](https://user-images.githubusercontent.com/20374208/213945080-6dec3024-e741-432b-874f-492543081d18.png) | ![third](https://user-images.githubusercontent.com/20374208/213945082-4349a9b4-3178-4f86-b83f-14e5b69e699c.png) | ![forth](https://user-images.githubusercontent.com/20374208/213945085-83f5726e-c8b3-4455-958d-19245124e969.png) |
+
+| Screen 5 | Screen 6 | Screen 7 | Screen 8
+|:-:|:-:|:-:|:-:|
+| ![First](https://user-images.githubusercontent.com/20374208/213945087-8c9b6bb9-3245-49e8-a85a-b46167f730fe.png) | ![Sec](https://user-images.githubusercontent.com/20374208/213945089-f3becc0e-d46b-4e99-a854-4c15b2120df3.png) | ![third](https://user-images.githubusercontent.com/20374208/213945090-f7d2ce14-d7a4-4598-8141-1928834d226b.png) | ![forth](https://user-images.githubusercontent.com/20374208/213945092-ce1622e5-fb4a-4ffa-934f-cd9aa0d38c2f.png) |
+
+| Screen 9 | Screen 10 | Screen 11 
+|:-:|:-:|:-:|
+| ![First](https://user-images.githubusercontent.com/20374208/213945095-765c1334-b0a9-44b1-99fc-8d7232de075e.png) | ![Sec](https://user-images.githubusercontent.com/20374208/213945099-d1062bea-c0b2-418c-88f9-2a3c9d9e8797.png) | ![third](https://user-images.githubusercontent.com/20374208/213945103-e338f6bc-db98-42bb-a3cf-2145f7276a3f.png) |
+
+| Screen 12 | Screen 13 | Screen 14 
+|:-:|:-:|:-:|
+| ![First](https://user-images.githubusercontent.com/20374208/213945111-a50a9fac-41f5-4eac-b448-2fc8deb92db8.png) | ![Sec](https://user-images.githubusercontent.com/20374208/213945115-61bcc5b2-68ff-4a93-afc0-eb479f7e7f28.png) | ![third](https://user-images.githubusercontent.com/20374208/213945120-bad5b76e-5b84-40e7-b0c9-805630bf9117.png) |
+
+
 ### MerinAi ( Ai based on GPT3/4 , Midjourney , Google Palm2, Whisper and more... )
 NOT YET PUBLISHED ( don't know if i will ever release in public ) - EARLY BETA DEMO PICS
 
@@ -108,26 +128,6 @@ Features ( Text to Speech , Speech To Text , Audio to Image , Image to Audio , I
 | Screen 1 | Screen 2 | Screen 3 | Screen 4
 |:-:|:-:|:-:|:-:|
 | ![First](https://user-images.githubusercontent.com/20374208/221439720-982e35c7-6a57-4f87-bcf2-e847cfabfc35.png) | ![Sec](https://user-images.githubusercontent.com/20374208/221439723-29fbaaf9-6220-4ee6-9eac-b40d1bbf6992.png) | ![third](https://user-images.githubusercontent.com/20374208/221439728-3537f65b-34c0-4e73-911a-78e5bc535714.png) | ![forth](https://user-images.githubusercontent.com/20374208/221439731-d6460517-a255-44ae-80af-7a367ae0662d.png) |
-
-
-### [Zero Fap Addiction](https://play.google.com/store/apps/details?id=com.goxr3plus.zerxrfaldplezodiambals) ( Gamify your addiction free journey )
-<img src="https://play-lh.googleusercontent.com/iIFglnY2BoV9xdZTUZqgPol-5wfRfQg3ZtOU4UXhWkeRptJLnXWROc6vpMXgFXsF1lw"  width="40%" height="30%">
-
-| Screen 1 | Screen 2 | Screen 3 | Screen 4
-|:-:|:-:|:-:|:-:|
-| ![First](https://user-images.githubusercontent.com/20374208/213945075-79b967a2-b380-4609-994c-d037fbf76da2.png) | ![Sec](https://user-images.githubusercontent.com/20374208/213945080-6dec3024-e741-432b-874f-492543081d18.png) | ![third](https://user-images.githubusercontent.com/20374208/213945082-4349a9b4-3178-4f86-b83f-14e5b69e699c.png) | ![forth](https://user-images.githubusercontent.com/20374208/213945085-83f5726e-c8b3-4455-958d-19245124e969.png) |
-
-| Screen 5 | Screen 6 | Screen 7 | Screen 8
-|:-:|:-:|:-:|:-:|
-| ![First](https://user-images.githubusercontent.com/20374208/213945087-8c9b6bb9-3245-49e8-a85a-b46167f730fe.png) | ![Sec](https://user-images.githubusercontent.com/20374208/213945089-f3becc0e-d46b-4e99-a854-4c15b2120df3.png) | ![third](https://user-images.githubusercontent.com/20374208/213945090-f7d2ce14-d7a4-4598-8141-1928834d226b.png) | ![forth](https://user-images.githubusercontent.com/20374208/213945092-ce1622e5-fb4a-4ffa-934f-cd9aa0d38c2f.png) |
-
-| Screen 9 | Screen 10 | Screen 11 
-|:-:|:-:|:-:|
-| ![First](https://user-images.githubusercontent.com/20374208/213945095-765c1334-b0a9-44b1-99fc-8d7232de075e.png) | ![Sec](https://user-images.githubusercontent.com/20374208/213945099-d1062bea-c0b2-418c-88f9-2a3c9d9e8797.png) | ![third](https://user-images.githubusercontent.com/20374208/213945103-e338f6bc-db98-42bb-a3cf-2145f7276a3f.png) |
-
-| Screen 12 | Screen 13 | Screen 14 
-|:-:|:-:|:-:|
-| ![First](https://user-images.githubusercontent.com/20374208/213945111-a50a9fac-41f5-4eac-b448-2fc8deb92db8.png) | ![Sec](https://user-images.githubusercontent.com/20374208/213945115-61bcc5b2-68ff-4a93-afc0-eb479f7e7f28.png) | ![third](https://user-images.githubusercontent.com/20374208/213945120-bad5b76e-5b84-40e7-b0c9-805630bf9117.png) |
 
 ---
 
