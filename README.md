@@ -54,7 +54,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 ---
 
-<p align="center" style="font-size: 40px" >My Desktop Apps</p> 
+<p align="center" style="font-size: 40px" >My Desktop Apps ( i have like 10+) </p> 
 
 Featured among the [top applications](https://openjfx.io) ever made in JavaFX
 
