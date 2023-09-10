@@ -7,7 +7,7 @@ Check my playstore applications : [My playstore apps](https://play.google.com/st
 
 Check my youtube channel : [Youtube Channel](https://www.youtube.com/c/GoXR3PlusStudio/featured)
 
-<p align="left"> An extremely motivated programmer , who is constantly developing his skills to become a professional . Confident about my ability to come up with innovative ideas to achieve the 
+<p align="left"> An extremely motivated programmer who creates a lot of new stuff , Confident about my ability to come up with innovative ideas to achieve the 
 perfect outcome .
 
 - 🌱 Currently focusing on [React](https://github.com/facebook/react) / [React Native](https://github.com/facebook/react-native) and trying to become a Senior Web Developer
