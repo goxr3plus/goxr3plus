@@ -60,7 +60,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 Featured among the [top applications](https://openjfx.io) ever made in JavaFX
 
-### [XR3Player](https://github.com/goxr3plus/XR3Player) (Biggest DJ Player written in Java/JavaFX 19  made by me)
+### [XR3Player](https://github.com/goxr3plus/XR3Player) (Biggest DJ Player written in Java/JavaFX 20  made by me alone)
 
 | XR3Player - Click for Video|
 |:-:|
@@ -70,8 +70,8 @@ Featured among the [top applications](https://openjfx.io) ever made in JavaFX
 
 <p align="center" style="font-size: 40px" >My playstore apps</p> 
 
-### MerinAi ( Ai based on GPT4 , Midjourney , Google Palm2, Whisper and more... )
-NOT YET PUBLISHED - EARLY ALPHA DEMO PICS
+### MerinAi ( Ai based on GPT3/4 , Midjourney , Google Palm2, Whisper and more... )
+NOT YET PUBLISHED ( don't know if i will ever release in public ) - EARLY BETA DEMO PICS
 
 Features ( Text to Speech , Speech To Text , Audio to Image , Image to Audio , Image to Text Text to Image , can answer everything that Chatgpt 4 and Plam2 can ... and more, i am crazy i know ) 
 
