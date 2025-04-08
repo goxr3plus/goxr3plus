@@ -5,8 +5,6 @@
 
 Check my playstore applications : [My playstore apps](https://play.google.com/store/apps/dev?id=6434311469904942963)
 
-Check my youtube channel : [Youtube Channel](https://www.youtube.com/c/GoXR3PlusStudio/featured)
-
 <p align="left"> An extremely motivated programmer who creates a lot of new stuff , Confident about my ability to come up with innovative ideas to achieve the 
 perfect outcome .
 
@@ -69,24 +67,12 @@ Featured among the [top applications](https://openjfx.io) ever made in JavaFX
 <p align="center" style="font-size: 40px" >My playstore apps</p> 
 
 ### [Zero Faulty Habits](https://play.google.com/store/apps/details?id=com.goxr3plus.zerxrfaldplezodiambals) ( Gamify your addiction free journey )
-[<img src="https://play-lh.googleusercontent.com/iIFglnY2BoV9xdZTUZqgPol-5wfRfQg3ZtOU4UXhWkeRptJLnXWROc6vpMXgFXsF1lw"  width="40%" height="30%">
+[<img src="https://play-lh.googleusercontent.com/_7GGo6GAJ-K90uz96hBvjbKx7ar74tBzlTFfuncozGwylzFTKGODCRR6gpoGKSxP9w=w480-h960-rw"  width="40%" height="30%">
 ](https://play-lh.googleusercontent.com/_7GGo6GAJ-K90uz96hBvjbKx7ar74tBzlTFfuncozGwylzFTKGODCRR6gpoGKSxP9w=w480-h960-rw)
 
 | Screen 1 | Screen 2 | Screen 3 | Screen 4
 |:-:|:-:|:-:|:-:|
-| ![First](https://user-images.githubusercontent.com/20374208/213945075-79b967a2-b380-4609-994c-d037fbf76da2.png) | ![Sec](https://user-images.githubusercontent.com/20374208/213945080-6dec3024-e741-432b-874f-492543081d18.png) | ![third](https://user-images.githubusercontent.com/20374208/213945082-4349a9b4-3178-4f86-b83f-14e5b69e699c.png) | ![forth](https://user-images.githubusercontent.com/20374208/213945085-83f5726e-c8b3-4455-958d-19245124e969.png) |
-
-| Screen 5 | Screen 6 | Screen 7 | Screen 8
-|:-:|:-:|:-:|:-:|
-| ![First](https://user-images.githubusercontent.com/20374208/213945087-8c9b6bb9-3245-49e8-a85a-b46167f730fe.png) | ![Sec](https://user-images.githubusercontent.com/20374208/213945089-f3becc0e-d46b-4e99-a854-4c15b2120df3.png) | ![third](https://user-images.githubusercontent.com/20374208/213945090-f7d2ce14-d7a4-4598-8141-1928834d226b.png) | ![forth](https://user-images.githubusercontent.com/20374208/213945092-ce1622e5-fb4a-4ffa-934f-cd9aa0d38c2f.png) |
-
-| Screen 9 | Screen 10 | Screen 11 
-|:-:|:-:|:-:|
-| ![First](https://user-images.githubusercontent.com/20374208/213945095-765c1334-b0a9-44b1-99fc-8d7232de075e.png) | ![Sec](https://user-images.githubusercontent.com/20374208/213945099-d1062bea-c0b2-418c-88f9-2a3c9d9e8797.png) | ![third](https://user-images.githubusercontent.com/20374208/213945103-e338f6bc-db98-42bb-a3cf-2145f7276a3f.png) |
-
-| Screen 12 | Screen 13 | Screen 14 
-|:-:|:-:|:-:|
-| ![First](https://user-images.githubusercontent.com/20374208/213945111-a50a9fac-41f5-4eac-b448-2fc8deb92db8.png) | ![Sec](https://user-images.githubusercontent.com/20374208/213945115-61bcc5b2-68ff-4a93-afc0-eb479f7e7f28.png) | ![third](https://user-images.githubusercontent.com/20374208/213945120-bad5b76e-5b84-40e7-b0c9-805630bf9117.png) |
+| ![First](https://play-lh.googleusercontent.com/GkZJH33QmqsQoIeZMi2kv04hAeXMn4zaW8R7qAaSKpnwSsUzZOHikzLdduj-cW9DEOw=w1052-h592-rw) | ![Sec](https://play-lh.googleusercontent.com/KWJbXV4dRtGDI0C9th_Dblru6DghHlwbMpbqNNELULa8NxxTQRZOQlkT236SBE7cPvU=w1052-h592-rw) | ![third](https://play-lh.googleusercontent.com/Tcg6J-lMwIM0hHFcd1ve39l_9vrAQQUBXXncegeHmzrHYrBXM2lXMaPADj6Uopt9dQ=w1052-h592-rw) | ![forth](https://play-lh.googleusercontent.com/7ppPr29gVcyvz1Kedvs-2CRRhCq-OGDOyCZkg0eiS7j4sJrs1Lq_bYtmR_oW8EjZXiE=w1052-h592-rw) |
 
 
 ### MerinAi ( Ai based on GPT3/4 , Midjourney , Google Palm2, Whisper and more... )
