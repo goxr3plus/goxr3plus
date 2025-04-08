@@ -68,8 +68,9 @@ Featured among the [top applications](https://openjfx.io) ever made in JavaFX
 
 <p align="center" style="font-size: 40px" >My playstore apps</p> 
 
-### [Zero Fap Addiction](https://play.google.com/store/apps/details?id=com.goxr3plus.zerxrfaldplezodiambals) ( Gamify your addiction free journey )
-<img src="https://play-lh.googleusercontent.com/iIFglnY2BoV9xdZTUZqgPol-5wfRfQg3ZtOU4UXhWkeRptJLnXWROc6vpMXgFXsF1lw"  width="40%" height="30%">
+### [Zero Faulty Habits](https://play.google.com/store/apps/details?id=com.goxr3plus.zerxrfaldplezodiambals) ( Gamify your addiction free journey )
+[<img src="https://play-lh.googleusercontent.com/iIFglnY2BoV9xdZTUZqgPol-5wfRfQg3ZtOU4UXhWkeRptJLnXWROc6vpMXgFXsF1lw"  width="40%" height="30%">
+](https://play-lh.googleusercontent.com/_7GGo6GAJ-K90uz96hBvjbKx7ar74tBzlTFfuncozGwylzFTKGODCRR6gpoGKSxP9w=w480-h960-rw)
 
 | Screen 1 | Screen 2 | Screen 3 | Screen 4
 |:-:|:-:|:-:|:-:|
