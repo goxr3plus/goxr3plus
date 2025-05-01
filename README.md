@@ -2,6 +2,9 @@
 <a href="#"><img width="100%" src="https://user-images.githubusercontent.com/20374208/176514909-13e392d7-3139-4b41-9e48-39d0d18a0738.png" height="100%"/></a>
 </p>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{goxr3plus}"/>
+</a>
 
 Check my playstore applications : [My playstore apps](https://play.google.com/store/apps/dev?id=6434311469904942963)
 
